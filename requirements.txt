@@ -1,0 +1,44 @@
+# ================================================
+# ai-stock-navigator-mvp requirements
+# Python 3.13
+# ================================================
+
+# 데이터 수집 (2주차)
+pykrx
+yfinance
+beautifulsoup4
+requests
+
+# 데이터 처리 (3주차)
+pandas
+numpy
+scipy
+
+# 기술적 지표 (3주차)
+ta
+
+# 감성 분석 (3주차)
+transformers
+torch
+
+# AI 설명 레이어 (4주차)
+google-generativeai
+anthropic
+
+# 시각화 및 UI (5주차)
+streamlit
+plotly
+matplotlib
+
+# 데이터베이스 (2주차~)
+# sqlite3는 Python 표준 라이브러리 → 설치 불필요
+
+# 스케줄링 (5주차)
+apscheduler
+
+# 환경변수 관리 (1주차)
+python-dotenv
+
+# 개발 보조
+jupyter
+ipykernel
